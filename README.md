@@ -2,7 +2,7 @@
 
 **dancing dragon** is a simple Blockchain implementation in Rust.
 
-This is repository is merely for academic purposes for learning Blockchain technology and the Rust language as well.
+This repository is merely for academic purposes for learning Blockchain technology and the Rust language as well.
 The code is not optimized and in no way should be used for production.
 
 ## Installation
